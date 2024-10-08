@@ -8,4 +8,5 @@ enum DayOfWeek {
   Sunday,
 }
 
+
 const isWeekend = (day) => {};
